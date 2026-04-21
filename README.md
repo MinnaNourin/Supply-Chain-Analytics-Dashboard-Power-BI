@@ -15,7 +15,7 @@ This dashboard enables organizations to:
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ### Overview Dashboard
 ![Overview](supply_chain_overview.png)
@@ -74,12 +74,9 @@ Focused on **logistics & delivery performance**
 
 ## 🧠 Key Insights 
 
-> These should be updated with real values from your dataset before publishing.
-
 - 📉 **54.83% of deliveries are delayed**, with **[Category]** showing highest inefficiency  
 - 🚚 **Standard Class** handles the highest order volume but has lower efficiency  
-- 📈 Sales and order volumes showed a consistent trend across the dataset period, with Total Orders and Total 
-      Sales displaying a strong positive correlation across all tracked years.  
+- 📈 Sales and order volumes exhibited a consistent upward trend, with Total Orders and Total Sales showing a strong positive correlation throughout the observed period.  
 - 👥 **Consumer Segment** contributes the highest revenue share  
 - 🌍 Sales are distributed across multiple global markets including **Europe, LATAM, Pacific Asia, USCA, and 
       Africa.** 
