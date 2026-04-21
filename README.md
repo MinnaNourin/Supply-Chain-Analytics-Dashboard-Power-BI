@@ -1,6 +1,6 @@
 # Supply Chain Analytics Dashboard | Power BI
 
-> End-to-end supply chain intelligence system built in Power BI to analyze sales performance, delivery efficiency, logistics delays, and geographic demand distribution.
+End-to-end supply chain intelligence system built in Power BI to analyze sales performance, delivery efficiency, logistics delays, and geographic demand distribution.
 
 ---
 
@@ -37,18 +37,18 @@ This dashboard enables organizations to:
 
 | KPI | Business Meaning |
 |-----|------------------|
-| 💰 Total Sales | Revenue generated across all markets |
-| 📦 Total Orders | Overall demand volume |
-| 📈 Profit Margin % | Operational efficiency indicator |
-| 🛒 Avg Order Value | Customer purchase strength |
-| ⏱️ Late Delivery % | Supply chain reliability metric |
-| 🚚 Avg Delivery Time | Logistics efficiency indicator |
+| Total Sales | Revenue generated across all markets |
+| Total Orders | Overall demand volume |
+| Profit Margin % | Operational efficiency indicator |
+| Avg Order Value | Customer purchase strength |
+| Late Delivery % | Supply chain reliability metric |
+| Avg Delivery Time | Logistics efficiency indicator |
 
 ---
 
 ## 📊 Dashboard Architecture
 
-### 🧭 Page 1: Executive Overview
+### Page 1: Executive Overview
 Focused on **business health monitoring**
 
 - KPI Cards (6 core metrics)
@@ -60,7 +60,7 @@ Focused on **business health monitoring**
 
 ---
 
-### 🔍 Page 2: Operational Analytics
+### Page 2: Operational Analytics
 Focused on **logistics & delivery performance**
 
 - Delivery Time Trend Analysis (Line Chart)
@@ -72,15 +72,17 @@ Focused on **logistics & delivery performance**
 
 ---
 
-## 🧠 Key Insights (Replace with Actual Findings)
+## 🧠 Key Insights 
 
 > These should be updated with real values from your dataset before publishing.
 
-- 📉 **[X]% of deliveries are delayed**, with **[Category]** showing highest inefficiency  
-- 🚚 **[Shipping Mode]** handles the highest order volume but has lower efficiency  
-- 📈 Sales peaked in **[Month/Year]**, indicating seasonal demand patterns  
-- 👥 **[Customer Segment]** contributes the highest revenue share  
-- 🌍 **[Region/Country]** dominates overall sales distribution  
+- 📉 **54.83% of deliveries are delayed**, with **[Category]** showing highest inefficiency  
+- 🚚 **Standard Class** handles the highest order volume but has lower efficiency  
+- 📈 Sales and order volumes showed a consistent trend across the dataset period, with Total Orders and Total 
+      Sales displaying a strong positive correlation across all tracked years.  
+- 👥 **Consumer Segment** contributes the highest revenue share  
+- 🌍 Sales are distributed across multiple global markets including **Europe, LATAM, Pacific Asia, USCA, and 
+      Africa.** 
 
 ---
 
@@ -96,7 +98,7 @@ Focused on **logistics & delivery performance**
 
 ---
 
-## 🧱 Data Model Overview
+## Data Model Overview
 
 - Fact Table: Orders & Sales Transactions  
 - Dimension Tables: Date, Product, Customer, Shipping Mode, Region  
