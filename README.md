@@ -20,7 +20,7 @@ This dashboard enables organizations to:
 ### Overview Dashboard
 ![Overview](supply_chain_overview.png)
 
-### Operational Deep Dive
+### Operational Details
 ![Details](supply_chain_details.png)
 
 ---
