@@ -1,4 +1,4 @@
-# 📦 Supply Chain Analytics Dashboard | Power BI
+# Supply Chain Analytics Dashboard | Power BI
 
 > End-to-end supply chain intelligence system built in Power BI to analyze sales performance, delivery efficiency, logistics delays, and geographic demand distribution.
 
@@ -15,12 +15,12 @@ This dashboard enables organizations to:
 
 ---
 
-## 🖼️ Executive Dashboard Preview
+## 🖼️ Dashboard Preview
 
-### 📊 Overview Dashboard
+### Overview Dashboard
 ![Overview](supply_chain_overview.png)
 
-### 📊 Operational Deep Dive
+### Operational Deep Dive
 ![Details](supply_chain_details.png)
 
 ---
@@ -150,7 +150,7 @@ This project demonstrates industry-relevant competencies:
 
 ---
 
-## 💼 Business Value (Recruiter-Focused)
+## 💼 Business Value 
 
 This project reflects the ability to:
 - Translate raw operational data into business insights  
