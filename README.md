@@ -76,7 +76,7 @@ Focused on **logistics & delivery performance**
 
 - 📉 **54.83% of deliveries are delayed**, with **[Category]** showing highest inefficiency  
 - 🚚 **Standard Class** handles the highest order volume but has lower efficiency  
-- 📈 Sales and order volumes exhibited a consistent upward trend, with Total Orders and Total Sales showing a strong positive correlation throughout the observed period.  
+- 📈 **Sales and orders** increased together, showing strong positive correlation.
 - 👥 **Consumer Segment** contributes the highest revenue share  
 - 🌍 Sales are distributed across multiple global markets including **Europe, LATAM, Pacific Asia, USCA, and 
       Africa.** 
